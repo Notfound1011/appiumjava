@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/java-client-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/selenium-server-standalone-2.48.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/selenium-java-2.48.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
